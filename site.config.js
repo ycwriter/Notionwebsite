@@ -1,25 +1,25 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '6d02171508a942b0874913696fb98078',
+  rootNotionPageId: 'e674240c994f4ac191c1ae068243e0bd',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Alfaro Consulting',
-  domain: 'beta.alfaro.io',
-  author: 'Kelvin F. Alfaro',
+  name: 'Yohanna Writes',
+  domain: 'yohannawritesfor.me',
+  author: 'Yohanna Castro',
 
   // open graph metadata (optional)
-  description: 'Coaching and Consulting for Nonprofits',
-  socialImageTitle: 'Alfaro Consulting',
+  description: 'Freelance Writer',
+  socialImageTitle: 'Yohanna Castro Freelance Writer',
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  twitter: 'alfaro.io',
+  twitter: '',
   github: '',
-  linkedin: 'kelvinalfaro',
+  linkedin: '',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
